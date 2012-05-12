@@ -1,0 +1,1 @@
+do shell script "sudo defaults write /Library/Preferences/com.apple.loginwindow PasswordExpirationDays 60" with administrator privileges
